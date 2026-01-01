@@ -1,11 +1,12 @@
-# detect-device-lite
+## Features (v1.1.0)
 
-Lightweight Node.js utility to detect device, OS, and browser from user-agent.
+- Device type detection
+- OS & OS version detection
+- Browser & browser version detection
+- Device brand detection (best-effort)
+- Bot & crawler detection
 
-## Install
-
-```bash
-npm install detect-device-lite
+> Note: All detections are best-effort and privacy-safe.
 
 
 
