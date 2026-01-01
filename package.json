@@ -1,6 +1,6 @@
 {
   "name": "detect-device-lite",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "\"Lightweight device, OS and browser detection from user-agent\"",
   "keywords": [
     "[\"user-agent\"",
